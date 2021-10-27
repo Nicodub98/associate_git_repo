@@ -54,6 +54,8 @@ a:hover {
   display: inline-block;
   list-style: none;
   text-align: center;
+  position: relative;
+  left: -25px;
 }
 
 .btn {
